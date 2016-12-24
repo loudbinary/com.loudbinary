@@ -1,0 +1,2 @@
+# com.loudbinary
+Core Application
