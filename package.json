@@ -1,0 +1,23 @@
+{
+  "name": "com.loudbinary",
+  "version": "1.0.0",
+  "description": "Loud Binary Core Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loudbinary/com.loudbinary.git"
+  },
+  "keywords": [
+    "loudbinary",
+    "core"
+  ],
+  "author": "Charles Russell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loudbinary/com.loudbinary/issues"
+  },
+  "homepage": "https://github.com/loudbinary/com.loudbinary#readme"
+}
